@@ -1,0 +1,13 @@
+name = "Ez Cobblemon"
+author = "fluffy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a41e587e2e790c30b77fae41e9a65788679bdcb369b9501bfc1c286c13157f1e"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"

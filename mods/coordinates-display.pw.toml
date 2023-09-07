@@ -1,0 +1,13 @@
+name = "Coordinates Display"
+filename = "CoordinatesDisplay-2.3.0mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mW8PdUo/versions/WTyojyxx/CoordinatesDisplay-2.3.0mc1.19.jar"
+hash-format = "sha1"
+hash = "aea076920ee7b4e3465321d3beb7a4a0017fb79e"
+
+[update]
+[update.modrinth]
+mod-id = "3mW8PdUo"
+version = "WTyojyxx"
