@@ -46,11 +46,6 @@ hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
-metafile = true
-
-[[files]]
 file = "mods/chat-coords.pw.toml"
 hash = "678eeb01a4231dbe2122f651c92a785705ed5d7a9ef56a2081b480c3b9f0a63a"
 metafile = true
@@ -303,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
