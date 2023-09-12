@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -11,8 +16,33 @@ hash = "8ad70a37942196cdac3bab651037dec11ba0c0df5b6b261231ae66903ecfcdea"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "96db2068a8edb47d615d74bdc89241174b1d0aa7859b0bcffef365d801dd5717"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
@@ -76,6 +106,11 @@ hash = "ded40fcdb599e7d9df46b14ae5336e975018e7525bdaceb59cb69cbc8e42fbfe"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "9218b739bc867daa70ae508131fda45a58879445869e65c9cd37ae1c3c3b0c5c"
 metafile = true
@@ -83,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
@@ -118,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/gobber-fabric.pw.toml"
+hash = "c30046c9a714e59db62f3734d1597e284941a3e11c7afae5ca410767e9a75bbe"
 metafile = true
 
 [[files]]
@@ -176,6 +226,11 @@ hash = "6ea90857471e7f4ef99db7f3ad08ed70ffdd2d01fc56974e55fe682ef15ec473"
 metafile = true
 
 [[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "c63d70a26a9a3b2599945b63fb2f04f9e4352d4db0fea52b459633eaed24d132"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -201,6 +256,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -221,8 +281,18 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7ec14466fecbe64ae9de05bf0fd37891c3fe356b7093f579d3abec068eccac12"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "e4be28c7e5186a82071ee74ebff65374dd9b3b49f65a5da80e2a5642033edca0"
 metafile = true
 
 [[files]]
@@ -243,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "115708f32db501f577bd48fce5b56cd0b4114edbfd2e38bbe4e03466a31220db"
 metafile = true
 
 [[files]]
