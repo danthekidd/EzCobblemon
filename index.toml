@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "13900eb4d75010b02eaa6675770e15eaf33794c55658d9b7ae5f4d8299f680c8"
+hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
 metafile = true
 
 [[files]]
@@ -286,11 +286,6 @@ hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7ec14466fecbe64ae9de05bf0fd37891c3fe356b7093f579d3abec068eccac12"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e4be28c7e5186a82071ee74ebff65374dd9b3b49f65a5da80e2a5642033edca0"
 metafile = true
@@ -323,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "37a00c6bf4188fc6869ae0b25f512dde92fc36cf74278e14c129057f8c8d9bb7"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "56f0d46e0d3814d8399ce8205f12c05c1c3469f39aca704ca5774a452391c0dd"
 metafile = true
 
 [[files]]
